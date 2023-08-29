@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _strstr - Entry point
+ * _strstr - this function is the entry point
  * @haystack: input
  * @needle: input
- * Return: Always 0 (Success)
+ * Return: 0
  */
 
 char *_strstr(char *haystack, char *needle)
